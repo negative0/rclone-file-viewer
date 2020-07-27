@@ -6,7 +6,11 @@
   "homepage": "./",
   "rclone": {
     "handleType": [
-      "video/mp4"
+      "video/mp4",
+      "text/plain",
+      "text/csv",
+      "video/webm",
+      "application/pdf"
     ],
     "pluginType": "FILE_HANDLER"
   },
