@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App renders should match snapshot 1`] = `
+<div
+  data-test="appComponent"
+>
+  <t
+    errorComponent={
+      <p>
+        Error loading
+      </p>
+    }
+    filePath={null}
+    fileType=""
+    onError={[Function]}
+    unsupportedComponent={null}
+  />
+</div>
+`;
