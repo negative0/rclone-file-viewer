@@ -5,12 +5,13 @@
   "private": true,
   "homepage": "./",
   "rclone": {
-    "handleType": [
+    "handlesType": [
       "video/mp4",
       "text/plain",
       "text/csv",
       "video/webm",
-      "application/pdf"
+      "application/pdf",
+      "audio/mp3"
     ],
     "pluginType": "FILE_HANDLER"
   },
