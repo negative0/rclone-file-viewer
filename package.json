@@ -11,7 +11,8 @@
       "text/csv",
       "video/webm",
       "application/pdf",
-      "audio/mp3"
+      "audio/mp3",
+      "application/msword"
     ],
     "pluginType": "FILE_HANDLER"
   },
