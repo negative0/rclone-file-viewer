@@ -1,6 +1,6 @@
 {
-  "name": "rclone-plugin-template",
-  "author": "rclone",
+  "name": "rclone-file-viewer",
+  "author": "negative0",
   "version": "0.1.0",
   "private": true,
   "homepage": "./",
